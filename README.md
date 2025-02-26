@@ -1,7 +1,9 @@
-<div style="text-align: center;">
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="input.png" alt="Source" style="width: 300px; height: auto;">
-  <span style="font-size: 48px; margin: 0 20px;">→</span>
-  <img src="output.png" alt="Target" style="width: 300px; height: auto;">
-</div>
-</div>
+<p align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="border: none;"><img src="input.png" alt="Image 1" width="300" /></td>
+      <td style="border: none; text-align: center; vertical-align: middle;">→</td>
+      <td style="border: none;"><img src="output.png" alt="Image 2" width="300" /></td>
+    </tr>
+  </table>
+</p>
